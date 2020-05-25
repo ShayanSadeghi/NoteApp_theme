@@ -1,4 +1,9 @@
-$pr-color:rgb(255, 0, 0);
-h1 {
-    color: $pr-color;
+.landing {
+    position: relative;
+    background: url('../../img/landing.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin-top: -24px;
+    margin-bottom: -50px;
 }
